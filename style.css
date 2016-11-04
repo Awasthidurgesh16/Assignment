@@ -1,0 +1,28 @@
+body{
+	background-color: #D3D3D3;
+	font-family: sans-serif;
+
+}
+
+
+h1{
+	color: "black";
+	text-decoration: "bold";
+	
+}
+
+h3{
+	color: "black";
+	text-decoration: "bold";
+	}
+blockquote {
+  text-align: center;
+  border: 1px solid #ffffff; 
+  margin-left: 0;
+  padding: 0.5em 5px;
+  
+}
+
+div{
+	margin-left: 500px;
+}
